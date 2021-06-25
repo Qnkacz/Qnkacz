@@ -26,9 +26,15 @@
 
 
 ---  
+<br />
+<br />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qnkacz&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qnkacz&theme=nord&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+<br />
+I find it kinda strange, that it dosn't show dart that much  🤔
 
 <br />
 <br />
