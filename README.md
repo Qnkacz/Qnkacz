@@ -5,7 +5,7 @@
  - 👨🏻‍💻 Learn how to .Net
  - 👨🏻‍💻 Trying not to sudo rm rf/ in Linux
 </br>
- ## Outside of IT I'm interested in:
+## Outside of IT I'm interested in:
  - 🏀 Basketball
  - 🥊 Boxing
  - 📚 Philosophy of Law
