@@ -42,3 +42,10 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/190px-Linux_Mint_logo_without_wordmark.svg.png"/>
 
 Yeah, I kinda avoid using windows ¯\_(ツ)_/¯
+<br />
+<br />
+
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qnkacz)]]
