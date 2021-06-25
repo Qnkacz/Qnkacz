@@ -28,12 +28,7 @@
 ---  
 
 
-### Languages I'm speaking:  
-<img align="left" alt="Visual Studio Code" width="26px" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://www.fluttericon.com/logo_dart_192px.svg"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qnkacz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qnkacz&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
