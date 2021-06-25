@@ -23,7 +23,11 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Affinity_designer_icon_2019.png"/>
 <br />
 <br />
+
+
 ---  
+
+
 ### Languages I'm speaking:  
 <img align="left" alt="Visual Studio Code" width="26px" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://www.fluttericon.com/logo_dart_192px.svg"/>
