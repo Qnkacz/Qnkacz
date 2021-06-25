@@ -20,21 +20,21 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://iconarchive.com/download/i106280/papirus-team/papirus-apps/resolve.ico"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1024px-The_GIMP_icon_-_gnome.svg.png"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://iconape.com/wp-content/files/il/21180/png/adobe-illustrator-cc-2019.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Affinity_designer_icon_2019.png"/>  
+<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Affinity_designer_icon_2019.png"/>  \
 
-  
+
 ---  
 
 
 ### Languages I'm speaking:  
 <img align="left" alt="Visual Studio Code" width="26px" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://www.fluttericon.com/logo_dart_192px.svg"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"/>  
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"/>  \
 
 ---  
 
 ### Linux Distros I've used:  
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/2048px-Manjaro-logo.svg.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/190px-Linux_Mint_logo_without_wordmark.svg.png>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/190px-Linux_Mint_logo_without_wordmark.svg.png"/>
 
 Yeah, I kinda avoid using windows ¯\_(ツ)_/¯
