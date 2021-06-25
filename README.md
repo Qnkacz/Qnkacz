@@ -1,4 +1,4 @@
-###🎉 Hello, I'm Bartosz Wąsik a student that really likes to code 🎉
+### 🎉 Hello, I'm Bartosz Wąsik a student that really likes to code 🎉
 
 ## What i do:
  - 👨🏻‍💻 Learn how to Flutter
@@ -48,4 +48,4 @@ Yeah, I kinda avoid using windows ¯\_(ツ)_/¯
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qnkacz&count_private=true&show_icons=true&theme=nord)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qnkacz&count_private=true&show_icons=true&theme=nord&count_private=true)
